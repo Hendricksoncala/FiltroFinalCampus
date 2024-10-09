@@ -1,4 +1,4 @@
-const host = import.meta.env.VITE_HOST
+const host = import.meta.env.MONGODB_URI
 /**
  * @async 
  *  sends the data (user) to the server 
